@@ -1,0 +1,17 @@
+INSTRUCCIONES
+Ejecutar el .jar de PUZZLE.
+
+PANTALLA DE SELECCION DE IMAGEN
+1. En la pantalla que aparece, dar clic en el botón "BUSCAR IMAGEN"
+2. Seleccione una imagen a su gusto de cualquier carpeta existente en la computadora en uso.
+3. Clic en el botón "JUGAR"
+
+PANTALLA DE JUEGO
+1. Dar clic en el botón "Pistas",e inmediatamente aparecerán las flechas indicando los movimientos necesarios para ordenar el rompe cabezas
+2. Mover la ficha sin imagen y de color rosa pasrel, ya sea para arriba, abajo, derecha o izquierda, según se desee, se recomienda seguir los pasos de las PISTAS
+3. Dar clic en el botón "Pistas" si se desea recalcular las pistas.
+4. Al ordenar completamente el rompecabezas, aparecerá un mensaje de: "LO LOGRASTE...." 
+5. Si se desea terminar el juego dar clic en el botón "TERMINAR JUEGO !"
+6. En la parte izquierda de la pantalla presenta el número de intentos óptimos, y el número de intentos que se va realizando.
+7. En la parte derecha de la pantalla, dar clic en el botón "AYUDA", si se desea ir viendo la posicion de cada ficha desde arriba e izquierda hacia derecha y abajo para mayor ayuda.
+8. En la parte derecha inferior de la pantalla se muestra la imagen original a la que se tiene que llegar.
